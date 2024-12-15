@@ -1,3 +1,9 @@
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+###
+
 <h2 align="center">Hey!😉 My name is Sayan Ghosh.  I'm a Software Developer.🧑‍💻</h2>
 
 ###
@@ -58,10 +64,5 @@
   <img height="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
