@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://img.freepik.com/premium-vector/vector-teenager-drinking-water-from-tumbler_1310295-2154.jpg?w=996"  />
+  <img height="350" src="https://img.freepik.com/premium-vector/vector-teenager-drinking-water-from-tumbler_1310295-2154.jpg?w=996"  />
 </div>
 
 ###
