@@ -1,10 +1,10 @@
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div align="center">
+  <img height="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Robot animation" />
+</div>
 
 ###
 
-<h2 align="center">Hey!😉 My name is Sayan Ghosh.  I'm a Software Developer.🧑‍💻</h2>
+<h2 align="center">Hey!😉 My name is Sayan Ghosh. I'm a Software Developer.🧑‍💻</h2>
 
 ###
 
@@ -40,14 +40,11 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://www.instagram.com/mr_saayaann?igsh=MTRlN2V2dnNxaTM3ag==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ghoshsayan5205@gmail.com&su=Subject&body=MessageBody
-" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ghoshsayan5205@gmail.com&su=Subject&body=MessageBody" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sayaan-ghosh" target="_blank">
@@ -60,9 +57,6 @@
 
 ###
 
-<div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
-</div>
+<br clear="both">
 
-
-###
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
