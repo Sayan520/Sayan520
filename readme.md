@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://img.freepik.com/premium-vector/vector-teenager-drinking-water-from-tumbler_1310295-2154.jpg?w=996"  />
+  <img height="350" src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQyODY2MzAsIm5iZiI6MTczNDI4NjMzMCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE1VDE4MTIxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI3MDBlMWVmZWEyMDc1MjRlODY0MDBmN2I3MDVhODExZjY4MGE4YTBiZjgyYTE1NTkzOGFhOWJkZTY1ZTA4YWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CC7hg5t856_foiJZmypyOLTEeqTFvSuPyrWM7YV1vHM"  />
 </div>
 
 ###
