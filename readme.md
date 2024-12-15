@@ -62,6 +62,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://img.freepik.com/premium-vector/vector-teenager-drinking-water-from-tumbler_1310295-2154.jpg?w=996" alt="Snake animation" />
 
 ###
