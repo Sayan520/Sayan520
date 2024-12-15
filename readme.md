@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://img.freepik.com/premium-photo/cute-chubby-anime-guy-with-big-glasses-showcasing-his-love-gaming-manga-playful_1283595-31465.jpg?w=1060"  />
+  <img height="300" src="https://img.freepik.com/premium-vector/vector-teenager-drinking-water-from-tumbler_1310295-2154.jpg?w=996"  />
 </div>
 
 ###
