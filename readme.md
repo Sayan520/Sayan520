@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayan</h1>
 <h3 align="center">A Passionate Backend Developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan520&label=Profile%20views&color=0e75b6&style=flat" alt="sayan520" /> </p>
 
