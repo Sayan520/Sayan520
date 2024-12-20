@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/sayan5205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayan5205" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayaan-ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayaan-ghosh" height="30" width="40" /></a>
-<a href="https://fb.com/sayan ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan ghosh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Sayan-Ghosh/100033685911864/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan ghosh" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_saayaann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_saayaann" height="30" width="40" /></a>
 </p>
 
