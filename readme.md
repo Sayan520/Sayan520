@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Sayan520](https://github.com/Sayan520)
 
-- 💬 Ask me about **Python,GenAI,PHP,Flask,ASP.NET**
+- 💬 Ask me about **Python, GenAI,PHP, Flask, ASP.NET**
 
 - 📫 How to reach me via email: **ghoshsayan5205@gmail.com**
 
