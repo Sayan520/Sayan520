@@ -17,7 +17,6 @@
 💬 Ask me about **Python, PHP, Flask... or anything [here](https://github.com/Sayan520)**
 
 ⚡ Fun fact - **When I'm not coding, you can usually find me trying to perfect the art of the perfect cup of chai - a true caffeine connoisseur with a passion for coding!**
-
  </div>
 
  
