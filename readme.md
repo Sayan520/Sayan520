@@ -37,48 +37,63 @@
 
  <hr/>
  
-<h2 align="center">📕 Languages and Tools</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     </a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="50"/>
-    </a>
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="50"/>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50"/>
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50"/>
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"/>
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
     </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="50"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
-    </a>
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/>
-    </a>
-    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50"/>
-    </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="50"/>
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50"/>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/>
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
     </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+    </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+    </a>
+</div>
+
+<div align="center">
+  <a href="https://www.instagram.com/mr_saayaann?igsh=MTRlN2V2dnNxaTM3ag==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ghoshsayan5205@gmail.com&su=Subject&body=MessageBody" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayaan-ghosh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.facebook.com/people/Sayan-Ghosh/100033685911864/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo" />
+  </a>
 </div>
 
 
