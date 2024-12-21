@@ -85,7 +85,7 @@
 <hr/>
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/LuC-9/LuC-9/raw/output/github-contribution-grid-snake.svg" />
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Haoke98/Haoke98/main/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
     
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="END" />
   <br/><br/><br/>
