@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sayan5205" target="blank"><img src="https://img.shields.io/twitter/follow/sayan5205?logo=twitter&style=for-the-badge" alt="sayan5205" /></a> </p>
 
-- 🔭 I’m currently working on **ASP.NET CORE WEB API**
+- 🔭 I’m currently working on **Project about hiring platform**
 
 - 👨‍💻 All of my projects are available at :  [https://github.com/Sayan520](https://github.com/Sayan520)
 
