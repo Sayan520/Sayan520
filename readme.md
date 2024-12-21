@@ -36,7 +36,6 @@
 </div>
 
  <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
@@ -80,23 +79,6 @@
         <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
     </a>
 </div>
-
-<div align="center">
-  <a href="https://www.instagram.com/mr_saayaann?igsh=MTRlN2V2dnNxaTM3ag==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ghoshsayan5205@gmail.com&su=Subject&body=MessageBody" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/sayaan-ghosh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.facebook.com/people/Sayan-Ghosh/100033685911864/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo" />
-  </a>
-</div>
-
-
 
 <br/>
 <hr/>
