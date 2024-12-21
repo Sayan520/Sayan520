@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **ASP.NET, Firebase, AWS**
 
-💬 Ask me about **Python, PHP, ... or anything [here](https://github.com/Sayan520)**
+💬 Ask me about **Python, PHP, Flask... or anything [here](https://github.com/Sayan520)**
 
 ⚡ Fun fact **When I'm not coding, you can usually find me trying to perfect the art of the perfect cup of chai - a true caffeine connoisseur with a passion for coding!**
 
@@ -36,7 +36,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     </a>
