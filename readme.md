@@ -37,49 +37,50 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">📕 Languages and Tools</h2>
 <br/>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="60" height="60"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50"/>
     </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="60" height="60"/>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="50"/>
+    </a>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="50"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60"/>
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60"/>
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50"/>
     </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="60" height="60"/>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"/>
     </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="50"/>
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
     </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60"/>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/>
     </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="60"/>
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50"/>
     </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60"/>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="50"/>
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50"/>
     </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="60" height="60"/>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/>
     </a>
 </div>
+
 
 
 <br/>
