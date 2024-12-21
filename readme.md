@@ -86,7 +86,7 @@
   <br>
   <br/><br/><br/>
     
-   ![Snake Animation](https://github.com/Sayan520/Sayan520/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
    
 </div>
 
