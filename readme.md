@@ -36,7 +36,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     </a>
@@ -58,7 +58,6 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" />
     </a>
-    <br>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     </a>
@@ -78,7 +77,6 @@
         <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
     </a>
 </div>
-
 
 <br/>
 <hr/>
