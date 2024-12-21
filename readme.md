@@ -80,17 +80,14 @@
         <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="60" height="60"/>
     </a>
 </div>
-
-
-
-
 <br/>
 <hr/>
 <div align="center">
   <br>
- ![Snake Animation](https://github.com/Sayan520/Sayan520/blob/output/github-contribution-grid-snake.svg)
-
   <br/><br/><br/>
+    
+   ![Snake Animation](https://github.com/Sayan520/Sayan520/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
 
 <hr/>
