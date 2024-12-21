@@ -39,7 +39,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     </a>
