@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on a **Project Hiring Platform**
  
- 🌱 I’m currently learning **ASP.NET, Firebase, AWS**
+ 🌱 I’m currently learning **ASP.NET, AWS Glue, AWS Redshift**
 
 💬 Ask me about **Python, PHP, Flask... or anything [here](https://github.com/Sayan520)**
 
