@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **ASP.NET, AWS Glue, AWS Redshift**
 
-💬 Ask me about **Python, PHP, Flask... or anything [here](https://buymeacoffee.com/sayan520)**
+💬 Ask me about **Python, PHP, Flask... or anything [here](https://www.instagram.com/mr_saayaann)**
 
 ⚡ Fun fact - **When I'm not coding, you can usually find me trying to perfect the art of the perfect cup of chai - a true caffeine connoisseur with a passion for coding!**
  </div>
