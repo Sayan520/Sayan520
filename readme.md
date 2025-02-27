@@ -67,8 +67,8 @@
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60"/>
     </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="60"/>
+    <a href="https://azure.microsoft.com/en-in/products/data-factory" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="60" height="60"/>
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60"/>
