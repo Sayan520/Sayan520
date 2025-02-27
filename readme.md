@@ -43,8 +43,8 @@
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="60" height="60"/>
     </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="60" height="60"/>
+    <a href="https://angular.dev/overview" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="60" height="60"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60"/>
