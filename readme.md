@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Angular, ASP.NET, Azure Data Factory**
 
-💬 Ask me about **Python, ETL, Flask... or anything [here](https://www.instagram.com/mr_saayaann)**
+💬 Ask me about **Python, ETL, JS... or anything [here](https://www.instagram.com/mr_saayaann)**
 
 ⚡ Fun fact - **When I'm not coding, you can usually find me trying to perfect the art of the perfect cup of chai - a true caffeine connoisseur with a passion for coding!**
  </div>
