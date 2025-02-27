@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on a **Project Hiring Platform**
  
- 🌱 I’m currently learning **ASP.NET, Azure Data Factory, IICS**
+ 🌱 I’m currently learning **Angular, ASP.NET, Azure Data Factory**
 
 💬 Ask me about **Python, ETL, Flask... or anything [here](https://www.instagram.com/mr_saayaann)**
 
