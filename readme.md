@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-    <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=databricks" alt="Databricks" width="60" height="60"/>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
     </a>
     <a href="https://angular.dev/overview" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="60" height="60"/>
@@ -61,8 +61,8 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
     </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="60" height="60"/>
     </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60"/>
