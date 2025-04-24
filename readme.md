@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Data Engineering Analysis..**
+ 🔭 I’m currently working on a **Data Engineering Project**
  
  🌱 I’m currently learning **Databricks using PySpark, Power BI, Angular**
 
