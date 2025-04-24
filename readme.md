@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Project Hiring Platform**
+ 🔭 I’m currently working on a **Data Engineering Analysis..**
  
- 🌱 I’m currently learning **Angular, Power BI, ASP.NET**
+ 🌱 I’m currently learning **Databricks using PySpark, Power BI, Angular**
 
-💬 Ask me about **Python, ETL, JS... or anything [here](https://www.instagram.com/mr_saayaann)**
+💬 Ask me about **Data analysis, ETL Tools, ... or anything [here](https://www.instagram.com/mr_saayaann)**
 
 ⚡ Fun fact - **When I'm not coding, you can usually find me trying to perfect the art of the perfect cup of chai - a true caffeine connoisseur with a passion for coding!**
  </div>
